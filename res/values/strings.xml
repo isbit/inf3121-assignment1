@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Enter username:</string>
+    <string name="password">Enter password:</string>
+    <string name="login">Login</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="groups">Groups</string>
+    <string name="alarms">Alarms</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_alarms">Alarms</string>
+    <string name="active_alarms">Active Alarms</string>
+    <string name="historical_alarms">Historical Alarms</string>
+    <string name="title_activity_groups">Groups</string>
+    <string name="title_activity_group_info">Tags</string>
+    <string name="title_activity_tag_info">TagInfo</string>
+    <string name="tag_name">Name:</string>
+    <string name="tag_value">Value:</string>
+    <string name="tag_unit">Unit:</string>
+    <string name="tag_quality">Quality:</string>
+    <string name="title_activity_historical__alarms">Alarms</string>
+
+</resources>
